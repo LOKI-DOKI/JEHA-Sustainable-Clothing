@@ -65,7 +65,8 @@ JEHA monetizes its sustainable process through:
 
 ## 🧵 Project Components
 
-```
+---
+
 /JEHA/
 ├── README.md               # Project overview
 ├── presentations/          # Research & methodology documents,Fashion sketches and mockups and collected data
@@ -103,3 +104,6 @@ B.Tech IT | Innovator | Sustainability Advocate
 ---
 
 > "Wear the change you wish to see in the world – with JEHA."
+
+---
+
