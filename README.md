@@ -63,17 +63,15 @@ JEHA monetizes its sustainable process through:
 
 ---
 
-## 🧵 Project Components
+## 🧵 Project Structure
+```bash
+JEHA/
+├── documents/       # Reports , business plans,Research & methodology documents
+├── references/      # Branding, campaign,process ,reference and product images
+├── presentations/   # Research & methodology documents,Fashion sketches and mockups and collected data
+├── README.md        # Project overview
 
----
-
-/JEHA/
-├── README.md               # Project overview
-├── presentations/          # Research & methodology documents,Fashion sketches and mockups and collected data
-├── references/             # Branding, campaign,process ,reference and product images
-├── documents/              # Reports , business plans,Research & methodology documents
-
----
+```
 
 ## 👥 Target Audience
 
